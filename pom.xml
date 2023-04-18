@@ -8,9 +8,17 @@
 		<version>2.7.10</version>
 
 //Sachin
+
 //Rahul
+
+//changes by QA sachin
+
+//this is done QA
+
 //this is changes by Developer Rahul
+
 //this is changes by DEV
+
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.currency-conversion-service</groupId>
