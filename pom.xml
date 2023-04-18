@@ -10,6 +10,7 @@
 //Sachin
 //Rahul
 //changes by QA sachin
+//this is done QA
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.currency-conversion-service</groupId>
